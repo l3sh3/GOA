@@ -1,0 +1,1 @@
+print("goas pirveli leqciis shemdeg gamaxxsenda seriali Cobra Kai, sadac sxvadasxva akademiebi ebrdzvian ertmanets da leqciis bolos mivxvdi rom swor akademiashi movxvdi swor senseitan:).GOA chadebistvisaa (stonehenge_emoji*)")
