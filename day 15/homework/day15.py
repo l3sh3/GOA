@@ -60,9 +60,9 @@ for i in range(1, number1 + 1):
         count_of_divisions += 1
 
 if count_of_divisions > 2:
-    print("This number is not primal!")
+    print("This number is not prime!")
 else:
-    print("This number is primal!")
+    print("This number is prime!")
 
 
 #exercise 6
